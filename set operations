@@ -1,0 +1,6 @@
+x={9,4,6,3}
+y={1,7,8,9}
+print("union of x and y is",x.union(y))
+print("\nintersection of x and y is",x.intersection(y))
+print("\ndifference of x and y is",x.difference(y))
+print("\nsymmetric_difference of x and y is",x.symmetric_difference(y))
